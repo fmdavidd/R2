@@ -1,0 +1,19 @@
+/* src/styles/ClickButtons.css */
+.button-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: #c0392b;
+  }
+  
